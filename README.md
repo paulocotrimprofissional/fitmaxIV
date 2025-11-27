@@ -72,3 +72,8 @@ Desenvolvido por **Paulo César de Azevedo Silva Cotrim**
 
 Este projeto tem finalidade exclusivamente acadêmica.
 Uso livre para fins educacionais.
+
+✔ Scripts testados e funcionando corretamente via SQLite Studio.
+
+✔ Banco pronto para importação e execução direta.
+
