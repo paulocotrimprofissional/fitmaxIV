@@ -15,13 +15,19 @@ Projeto acadêmico desenvolvido utilizando **SQLite**, representando o modelo de
 
 ## 📁 Estrutura do Repositório
 
-📦 fitmax-database
-┣ 📜 README.md
-┣ 📜 01_create_tables.sql
-┣ 📜 02_insert_data.sql
-┣ 📜 03_select_queries.sql
-┣ 📜 04_update_delete.sql
-┗ 📜 fitmax.db
+fitmaxIV/
+
+├─ 01_create_tables.sql
+
+├─ 02_insert_data.sql
+
+├─ 03_select_queries.sql
+
+├─ 04_update_delete.sql
+
+├─ fitmax.db
+
+└─ README.md
 
 ## 📊 Diagrama Entidade-Relacionamento (DER)
 
